@@ -1,15 +1,15 @@
 Wave based zombie game (SFML)
 
-Developed in C++ using SFML
+Developed in C++ using SFML.<br>
 You play as a human who's job is to survive endless waves of zombies by any means necessary. Your goal is to survive for as long as possible and beat the highscore. You have a plethora of useful items that will assist in your goals ranging from a freeze time power-up to metal scraps that can be used to upgrade your weapon's damage. 
 
 Features:
-* 2 weapon types (shotgun and pistol)
-* Dodge ability
-* 4 pickups (freeze time, metal scrap, ammo crate, med pack)
-* 4 Zombie types (bloater, crawler, sprinter, invisible)
-* Upgrade menu after each successful wave completion
-* Map expansion after each successful wave completion
+* 2 weapon types (shotgun and pistol).
+* Dodge ability.
+* 4 pickups (freeze time, metal scrap, ammo crate, med pack).
+* 4 Zombie types (bloater, crawler, sprinter, invisible).
+* Upgrade menu after each successful wave completion.
+* Map expansion after each successful wave completion.
 
 Keybinds:
 * W, A, S, D (movement)
@@ -31,4 +31,4 @@ Upgrade screen keybinds:
 
 Built using:
 * C++
-* Sfml
+* Sfml - Simple and fast Multimedia Library
