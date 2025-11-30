@@ -1,0 +1,169 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CA2_2025_K00298338.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bullet.cpp
+  CreateBackground.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,64): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,64): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,64): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,64): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,49): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,49): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,49): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(30,49): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,78): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,78): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,78): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,78): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,63): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,63): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,63): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(31,63): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,92): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,92): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,92): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,92): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,63): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,63): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,63): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(32,63): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,80): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,80): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,80): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,80): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,50): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,50): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,50): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(33,50): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(52,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(52,54): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(52,54): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(52,54): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(52,54): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(53,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(53,62): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(53,62): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(53,62): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(53,62): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(54,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(54,70): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(54,70): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(54,70): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(54,70): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(55,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(55,62): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(55,62): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(55,62): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateBackground.cpp(55,62): warning C4244:         ]
+  CreateHorde.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(24,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(25,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(30,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(31,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(36,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(37,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(42,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\CreateHorde.cpp(43,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pickup.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Pickup.cpp(34,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Pickup.cpp(35,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Pickup.cpp(62,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Pickup.cpp(62,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Pickup.cpp(118,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Pickup.cpp(122,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Player.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(9,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(10,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(27,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(28,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(37,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(37,29): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(37,29): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(37,29): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(37,29): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(38,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(38,30): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(38,30): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(38,30): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(38,30): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(185,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(185,32): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(185,32): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(185,32): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(185,32): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(190,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(190,31): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(190,31): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(190,31): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(190,31): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(195,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(195,33): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(195,33): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(195,33): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(195,33): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(200,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(200,30): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(200,30): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(200,30): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(200,30): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(204,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(212,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Player.cpp(218,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  SoundManager.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\SoundManager.cpp(58,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextureHolder.cpp
+  Zombie.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Zombie.cpp(52,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\Zombie.cpp(136,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ZombieArena.cpp
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(29,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(29,44): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(29,44): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(29,44): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(29,44): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(30,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(30,44): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(30,44): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(30,44): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(30,44): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,56): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,56): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,56): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,56): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,42): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,42): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,42): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(32,42): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:             T=unsigned int
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:         and
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,80): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:             T=unsigned int
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:         and
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(38,60): warning C4244:         ]
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(723,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(723,50): warning C4244:         with
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(723,50): warning C4244:         [
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(723,50): warning C4244:             T=float
+C:\2dgd\classroom code\CA2_2025_K00298338\CA2_2025_K00298338\code\ZombieArena.cpp(723,50): warning C4244:         ]
+  Generating Code...
+  CA2_2025_K00298338.vcxproj -> C:\2dgd\classroom code\CA2_2025_K00298338\x64\Debug\Zombie Game.exe
